@@ -43,9 +43,9 @@ export default function Reasons() {
             <span>RELIABLE PARTNERS</span>
           </div>
         </div>
-        <div style={{ color: "var(--gray)", fontWeight: "normal" }}>
+        <span style={{ color: "var(--gray)", fontWeight: "normal" }}>
           OUR PARTNERS
-        </div>
+        </span>
         <div className="partners">
           <img src={nb} alt="nb" />
           <img src={adidas} alt="adidas" />
